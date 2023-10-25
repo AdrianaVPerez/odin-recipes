@@ -1,0 +1,1 @@
+This is a recipes project that was made with HTML. More importantly it was a way to familiarize myself with the basics of HTML.
